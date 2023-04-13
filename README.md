@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Dong-Hyeon&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Dong-Hyeon&layout=compact&theme=radical"><br><br>
+
 
 ### 💪 Skills
 #### Platforms & Languages
