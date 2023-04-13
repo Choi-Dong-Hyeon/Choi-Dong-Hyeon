@@ -19,8 +19,11 @@ Here are some ideas to get you started:
   I hope to develop every anythings. ✨ <br/><br/>
 </p>
 
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Dong-Hyeon&show_icons=true&theme=radical)
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Unity-4695EB?style=flat-square&logo=Unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/csharp-02569B?style=flat-square&logo=csharp&logoColor=white"/>
+ </p>
