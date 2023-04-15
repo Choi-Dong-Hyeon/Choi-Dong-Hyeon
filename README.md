@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Dong-Hyeon&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Dong-Hyeon&layout=compact&theme=radical"><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choi_dong_hyeon)](https://solved.ac/choi_dong_hyeon)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=DongHyeon2)](https://solved.ac/DongHyeon2)
 
 ### 💪 Skills
 #### Platforms & Languages
