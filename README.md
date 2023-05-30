@@ -1,39 +1,42 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Choi_Dong_Hyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-### 
-<div align="center">
- 
- 🤞 Nice way to meet me
- 
- <a href="mailto:MicroSoftMainUser.com" target="_blank"><img src="https://img.shields.io/badge/MicroSoftMainUser.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- 
-<!--
-**Choi-Dong-Hyeon/Choi-Dong-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Choi_Dong_Hyeon+GitHub!👋)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-  👋&nbsp; Hi there! I'm <b>Unity Clientdeveloper</b>🚀<br/>
-  I hope to develop every anythings. ✨ <br/><br/>
-</p>
-
+<div align="left">
+ 
+ ---
+ 
+### [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Dong-Hyeon&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Dong-Hyeon&layout=compact&theme=radical"><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dong_Hyeon)](https://solved.ac/Dong_Hyeon)
+ 
+---
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dong_Hyeon)](https://solved.ac/Dong_Hyeon)
+ 
+---
+ 
+ <div align="center">
+ 👋&nbsp; Hi there! I'm <b>Unity Clientdeveloper</b>🚀<br/>
 
-### 💪 Skills
+ ---
+
+<p>
+  🤞 Nice way to meet me
+ 
+  <a href="mailto:MicroSoftMainUser.com" target="_blank"><img src="https://img.shields.io/badge/MicroSoftMainUser.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+  ---
+
+### 💪 Skills 
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Unity-4695EB?style=flat-square&logo=Unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/csharp-02569B?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.Net-3178C6?style=flat-square&logo=.Net&logoColor=white"/>
  </p>
+  
+  </div>
 
