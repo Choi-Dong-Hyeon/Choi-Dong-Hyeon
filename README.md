@@ -20,7 +20,7 @@
   <div align="center">
    
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Dong_Hyeon)](https://solved.ac/Dong_Hyeon)
- <img src="http://mazandi.herokuapp.com/api?handle=dong_hyeon&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=dong_hyeon&theme=dark"/>
    
  </div>
  
