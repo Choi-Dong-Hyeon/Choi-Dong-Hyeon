@@ -1,6 +1,9 @@
-<div align="center">
-### 🤞 Nice way to meet me
+
+### 
+<div align="center">🤞 Nice way to meet me
+ 
  <a href="mailto:MicroSoftMainUser.com" target="_blank"><img src="https://img.shields.io/badge/MicroSoftMainUser.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ 
 <!--
 **Choi-Dong-Hyeon/Choi-Dong-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +34,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/csharp-02569B?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.Net-3178C6?style=flat-square&logo=.Net&logoColor=white"/>
  </p>
-</div>
+
