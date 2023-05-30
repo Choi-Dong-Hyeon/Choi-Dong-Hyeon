@@ -1,6 +1,8 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Choi_Dong_Hyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ### 
-<div align="center">🤞 Nice way to meet me
+<div align="center">
+ 
+ 🤞 Nice way to meet me
  
  <a href="mailto:MicroSoftMainUser.com" target="_blank"><img src="https://img.shields.io/badge/MicroSoftMainUser.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
