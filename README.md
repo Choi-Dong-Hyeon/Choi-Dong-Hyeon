@@ -8,7 +8,7 @@
  
   <div align="center">
  
-### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-Dong-Hyeon&count_bg=%23FD7DAC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB_Blog&edge_flat=false)]([https://hits.seeyoufarm.com](https://choi-dong-hyeon.github.io/))
+### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-Dong-Hyeon&count_bg=%23FD7DAC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)]([https://choi-dong-hyeon.github.io/])
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Dong-Hyeon&show_icons=true&theme=radical)
