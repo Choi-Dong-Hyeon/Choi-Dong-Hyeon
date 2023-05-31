@@ -35,7 +35,7 @@
   🤞 Nice way to meet me
 
   <a href="mailto:MicroSoftMainUser@Gmail.com" target="_blank"><img src="https://img.shields.io/badge/MicroSoftMainUser@Gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.instagram.com/hongssup/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ziostylist"/></a>
+ <a href="https://www.instagram.com/ziostylist/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ziostylist"/></a>
 
   ---
 
