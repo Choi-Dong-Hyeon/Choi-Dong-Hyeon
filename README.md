@@ -1,9 +1,11 @@
+
+
 <table><tbody><tr>
     <td>
     <a href="https://github.com/Choi-Dong-Hyeon/-Computer_Architecture-">
-        <div>-Computer_Architecture- </div>
+        <div>-Computer Architecture- </div>
     </a>
-    <div>컴퓨터구조조</div>
+    <div>컴퓨터구조　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
      <div>----</div>
 </td>
   
@@ -13,7 +15,7 @@
     <a href="https://github.com/Choi-Dong-Hyeon/-Operating_System-">
         <div>-Operating_System-</div>
     </a>
-    <div>운영체제</div>
+    <div>운영체제                </div>
     <div>----</div>
 </td>
 
@@ -23,7 +25,7 @@
     <a href="https://github.com/Choi-Dong-Hyeon/-Assembly-">
         <div>-Assembly-   </div>
     </a>
-    <div>어셈블리어</div>
+    <div>어셈블리어            </div>
     <div>----</div>
 </td>
   
@@ -33,7 +35,7 @@
     <a href="https://github.com/Choi-Dong-Hyeon/-Web_Server-">
         <div>-Web Server- </div>
     </a>
-    <div>웹서버</div>
+    <div>웹서버            </div>
      <div>----</div>
 </td>
 
@@ -43,7 +45,7 @@
     <a href="https://github.com/Choi-Dong-Hyeon/-Game_Server-">
         <div>-Game Server-  </div>
     </a>
-    <div>게임서버</div>
+    <div>게임서버        </div>
     <div>----</div>
 </td>
   
@@ -51,9 +53,9 @@
 
 <td>
     <a href="https://github.com/Choi-Dong-Hyeon/-Algorithm-">
-        <div>-Algorithm-  </div>
+        <div>-Algorithm-          </div>
     </a>
-    <div>알고리즘</div>
+    <div>알고리즘                 </div>
     <div>----</div>
 </td>
 
