@@ -13,7 +13,6 @@
         <div>-Computer Architecture-</div>
     </a>
     <div>컴퓨터구조 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-     <div>----</div>
 </td>
   
 <tr></tr>
@@ -23,7 +22,6 @@
         <div>-Operating System-</div>
     </a>
     <div>운영체제 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-    <div>----</div>
 </td>
 
 <tr></tr>
@@ -33,7 +31,7 @@
         <div>-Assembly-</div>
     </a>
     <div>어셈블리어 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-    <div>----</div>
+    <div> 6520 - 8 / x86 - 16 ,32 ,64 </div>
 </td>
   
 <tr></tr>
@@ -42,28 +40,27 @@
     <a href="https://github.com/Choi-Dong-Hyeon/-Web_Server-">
         <div>-Web Server-</div>
     </a>
-    <div>웹서버 학습습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-     <div>----</div>
+    <div>웹서버 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
+     <div>ASP.NET Core / Blazor</div>
 </td>
 
 <tr></tr>
 
 <td>
     <a href="https://github.com/Choi-Dong-Hyeon/-Game_Server-">
-        <div>-Game Server-</div>
+        <div> -Game Server- </div>
     </a>
     <div>게임서버 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-    <div>----</div>
+    <div> Network / Multi Thread / Packet Serialization / Job Queue </div>
 </td>
   
 <tr></tr>
 
 <td>
     <a href="https://github.com/Choi-Dong-Hyeon/-Algorithm-">
-        <div>-Algorithm-</div>
+        <div> -Algorithm- </div>
     </a>
     <div>알고리즘 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-    <div>----</div>
 </td>
 
 </tbody></table>
