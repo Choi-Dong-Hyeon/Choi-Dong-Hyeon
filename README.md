@@ -1,10 +1,7 @@
-
-
 <table><tbody><tr>
-<td>
-    <a href="https://yeonyeon.tistory.com/318">
-        <img width="150%" src="/img/5587416947102256088.png"/><br/>
-        <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
+    <td>
+    <a href="https://github.com/Choi-Dong-Hyeon/-Computer_Architecture-">
+        <div>-Computer_Architecture- </div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
     <div>23.10.29</div>
@@ -13,9 +10,8 @@
 <tr></tr>
 
 <td>
-    <a href="https://yeonyeon.tistory.com/318">
-        <img width="100%" src="/img/5587416947102256088.png"/><br/>
-        <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
+    <a href="https://github.com/Choi-Dong-Hyeon/-Operating_System-">
+        <div>-Operating_System-</div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
     <div>23.10.29</div>
@@ -24,9 +20,8 @@
 <tr></tr>
 
 <td>
-    <a href="https://yeonyeon.tistory.com/318">
-        <img width="100%" src="/img/5587416947102256088.png"/><br/>
-        <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
+    <a href="https://github.com/Choi-Dong-Hyeon/-Assembly-">
+        <div>-Assembly-   </div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
     <div>23.10.29</div>
@@ -35,9 +30,8 @@
 <tr></tr>
 
 <td>
-    <a href="https://yeonyeon.tistory.com/318">
-        <img width="100%" src="/img/5587416947102256088.png"/><br/>
-        <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
+    <a href="https://github.com/Choi-Dong-Hyeon/-Web_Server-">
+        <div>-Web Server- </div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
     <div>23.10.29</div>
@@ -46,9 +40,8 @@
 <tr></tr>
 
 <td>
-    <a href="https://yeonyeon.tistory.com/318">
-        <img width="100%" src="/img/5587416947102256088.png"/><br/>
-        <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
+    <a href="https://github.com/Choi-Dong-Hyeon/-Game_Server-">
+        <div>-Game Server-  </div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
     <div>23.10.29</div>
