@@ -3,7 +3,7 @@
 <table><tbody><tr>
 <td>
     <a href="https://yeonyeon.tistory.com/318">
-        <img width="100%" src="/img/5587416947102256088.png"/><br/>
+        <img width="150%" src="/img/5587416947102256088.png"/><br/>
         <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
