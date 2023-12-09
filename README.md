@@ -31,7 +31,7 @@
         <div>-Assembly-</div>
     </a>
     <div>어셈블리어 학습　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-    <div> 6520 - 8 / x86 - 16 ,32 ,64 </div>
+    <div>6520 / x86 </div>
 </td>
 
 <tr></tr>
