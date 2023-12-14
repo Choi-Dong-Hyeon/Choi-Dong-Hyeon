@@ -6,7 +6,7 @@
     <a href="https://github.com/Choi-Dong-Hyeon/-Computer_Architecture-">
         <div>-Computer Architecture-</div>
     </a>
-    <div>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
+    <div>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
 </td>
   
 <tr></tr>
