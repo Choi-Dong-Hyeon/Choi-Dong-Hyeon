@@ -95,6 +95,13 @@
 
 <tr></tr>
 
+<td>
+    <a href="https://github.com/Choi-Dong-Hyeon/-WinForm-">
+        <div>◉ WinForm</div>
+    </a>
+    <div>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
+    <div> </div>
+</td>
 
 <tr></tr>
 
@@ -103,7 +110,7 @@
 
 <td>
     <a href="https://github.com/Choi-Dong-Hyeon/-Algorithm-">
-        <div> -Algorithm- </div>
+        <div>[ Algorithm ]</div>
     </a>
     <div>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
 </td>
